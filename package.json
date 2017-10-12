@@ -1,0 +1,17 @@
+{
+  "name": "buymovie",
+  "version": "1.0.0",
+  "description": "Movies for Sale App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Lyka Labrada",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "stripe": "^5.1.1"
+  }
+}
